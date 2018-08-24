@@ -1,4 +1,5 @@
 # RCI Website Revamp
+
 ----
 ### The following information is my personal opinion as to how we can make it the most useful for you.
 
@@ -14,7 +15,17 @@
 * This NEW site is designed to be fully responsive and will have a different view for different devices.
 	`This will allow us to reach a younger crowd than we traditionally have this is good and bad haha`
 
-* I will be storing all of this and other relevant useful stuff on a repo at GitHub.com/fireinjun/RCI
+* I will be storing all of this and other relevant useful stuff on a repo here on GitHub at https://GitHub.com/fireinjun/RCI
 
 
 
+
+
+
+
+
+
+
+
+
+# SEE `INFO\BATTLEPLAN.md` FOR ADDITIONAL DETAILS.
