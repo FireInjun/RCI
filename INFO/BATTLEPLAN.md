@@ -3,11 +3,11 @@
 ## Purpose
 A company's website is a VERY important aspect of its marketing and growth strategy in this day and age of constant digital communication and is ABSOLUTELY NECESSARY in order to compete.
 
-	* There are shops in town with less skill and capacity getting more work because your site isn't up to par.
+* There are shops in town with less skill and capacity getting more work because your site isn't up to par.
 
-	* When it boils down to it, your industry is in essence a glorified Graphic Design company, not having a good site can be devastating to your bottom line. If you can design shirts, why can't you make a site? That's how the younger generation will see it DESPITE the fact that they are in fact different jobs entirely. This site will fix that problem for you.
+* When it boils down to it, your industry is in essence a glorified Graphic Design company, not having a good site can be devastating to your bottom line. If you can design shirts, why can't you make a site? That's how the younger generation will see it DESPITE the fact that they are in fact different jobs entirely. This site will fix that problem for you.
 
-	* A larger digital footprint is DIRECTLY related to more traffic. You cannot expect to scrape by on word of mouth anymore. While this site WILL 100% change the game for you, ideally to get the most out of it, we need to complement it with a Facebook page, take control of your Yelp account, and we will need to Optimize your site to the top of Google. That will take time, searches and content. We can automate the majority of that later to assist you.
+* A larger digital footprint is DIRECTLY related to more traffic. You cannot expect to scrape by on word of mouth anymore. While this site WILL 100% change the game for you, ideally to get the most out of it, we need to complement it with a Facebook page, take control of your Yelp account, and we will need to Optimize your site to the top of Google. That will take time, searches and content. We can automate the majority of that later to assist you.
 ----
 ## Domain Name
 There are a plethora of names available for your usage. And there are just as many places to buy and set up everything.
