@@ -1,5 +1,6 @@
 # RCI Website Revamp
-
+## PREVIEW NOW HERE:
+[CURRENT STATUS](https://htmlpreview.github.io/?https://github.com/FireInjun/RCI/blob/master/SITE/index.html)
 ----
 ### The following information is my personal opinion as to how we can make it the most useful for you.
 
