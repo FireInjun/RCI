@@ -18,7 +18,9 @@
 
 * I will be storing all of this and other relevant useful stuff on a repo here on GitHub at https://GitHub.com/fireinjun/RCI
 
+* I decided to go with Bootstrap for simplicity, however I still wanted to do a video background. 
 
+* All colors are changeable and I can add and remove anything still.
 
 
 
